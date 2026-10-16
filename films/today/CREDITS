@@ -1,0 +1,12 @@
+Save Me a Little of Today (把今天留一小块给我)
+Song, lyrics: Chan Meng. The recording is the whole soundtrack, unaltered.
+
+Picture: every frame is drawn by code in this folder. No image-generation model, no photographs, no SVG.
+- paint/wc.py, paint/kit.py   procedural watercolour engine and drawing habits, carried over from A Coffee for One
+                              (solo-coffee-mv, same author) with a new palette.
+- paint/s_*.py, build.py      the paintings of this film, split by depth -> art/*.webp
+- stage.js, shots_*.js, edit.js, type.js, post.js   camera, light, weather, handwriting, the cut, the lyric, WebGL pass.
+- harness/, lib/, tools/      render harness and timing tools from solo-coffee-mv; tools/shotsheet.py, tools/qa.py and
+                              tools/edit_list.mjs are new.
+
+Fonts (SIL Open Font License 1.1): LXGW WenKai (lxgw), Noto Serif SC (Google / Adobe), Cormorant Garamond (Christian Thalmann).

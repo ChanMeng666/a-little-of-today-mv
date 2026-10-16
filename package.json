@@ -1,0 +1,13 @@
+{
+  "name": "a-little-of-today-mv",
+  "private": true,
+  "type": "module",
+  "description": "Save Me a Little of Today: a music video drawn entirely by code. Python paints watercolour bitmap layers; a web page composites them with Canvas 2D and WebGL and is captured frame by frame.",
+  "scripts": {
+    "render": "node harness/render.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "25.12.0",
+    "simplex-noise": "4.0.3"
+  }
+}

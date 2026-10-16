@@ -1,0 +1,5 @@
+/* All fonts are SIL OFL 1.1; see films/today/CREDITS. Only the families this film draws with are kept. */
+@font-face { font-family: 'LXGW WenKai'; src: url('/assets/fonts/LXGWWenKai-Regular.ttf') format('truetype'); font-weight: 400; font-display: block; }
+@font-face { font-family: 'Noto Serif SC'; src: url('/assets/fonts/NotoSerifSC-VF.ttf') format('truetype'); font-weight: 200 900; font-display: block; }
+@font-face { font-family: 'Cormorant Garamond'; src: url('/assets/fonts/CormorantGaramond-VF.ttf') format('truetype'); font-weight: 300 700; font-display: block; }
+@font-face { font-family: 'Cormorant Garamond'; src: url('/assets/fonts/CormorantGaramond-Italic-VF.ttf') format('truetype'); font-weight: 300 700; font-style: italic; font-display: block; }

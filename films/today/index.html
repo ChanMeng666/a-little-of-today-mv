@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<title>把今天留一小块给我</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/lib/fonts.css">
+<style>
+  html, body { margin: 0; background: #000; overflow: hidden; }
+  canvas { display: block; width: 1920px; height: 1080px; }
+  /* touch every family the canvas uses so the browser loads it before the first frame */
+  .f { position: absolute; left: -9999px; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<span class="f" style="font-family:'LXGW WenKai';font-weight:400">字</span>
+<span class="f" style="font-family:'Noto Serif SC';font-weight:600">字</span>
+<span class="f" style="font-family:'Noto Serif SC';font-weight:300">字</span>
+<span class="f" style="font-family:'Cormorant Garamond';font-style:italic">a</span>
+<span class="f" style="font-family:'Cormorant Garamond'">a</span>
+<script type="module" src="./film.js"></script>
+</body>
+</html>
