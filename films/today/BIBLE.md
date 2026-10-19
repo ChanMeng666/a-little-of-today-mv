@@ -1,7 +1,6 @@
 # 把今天留一小块给我 · film bible
 
-The song (Chan Meng, Taiwanese indie bedroom pop, ~78 BPM, 3:16, the vocal starts at 0.25 s with no intro) is a quiet
-note between two people who live close together but keep leaving a conversation half-finished. The film is one
+The song: Chan Meng, Taiwanese indie bedroom pop, ~78 BPM, 3:16, the vocal starts at 0.25 s with no intro. The film is one
 ordinary stretch of days in an old Taipei lane, painted in transparent watercolour with a loose pen line: the same hand
 as 独身主义的咖啡 (`D:\github_repository\solo-coffee-mv`, see its `films/solo-coffee/sheet.jpg`), but lighter, paler,
 more daylit, more lo-fi.
